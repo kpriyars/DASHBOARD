@@ -1,0 +1,12 @@
+[
+  { "id": "24BCB001", "name": "Krishna Priya", "Math": 95, "Science": 98, "English": 92 },
+  { "id": "24BCB002", "name": "Arjun Sharma", "Math": 72, "Science": 65, "English": 80 },
+  { "id": "24BCB003", "name": "Sana Khan", "Math": 45, "Science": 52, "English": 48 },
+  { "id": "24BCB004", "name": "Rahul Verma", "Math": 88, "Science": 90, "English": 85 },
+  { "id": "24BCB005", "name": "Ananya Iyer", "Math": 91, "Science": 94, "English": 89 },
+  { "id": "24BCB006", "name": "Vikram Singh", "Math": 35, "Science": 42, "English": 40 },
+  { "id": "24BCB007", "name": "Pooja Reddy", "Math": 78, "Science": 82, "English": 77 },
+  { "id": "24BCB008", "name": "Rohan Das", "Math": 65, "Science": 70, "English": 62 },
+  { "id": "24BCB009", "name": "Meera Nair", "Math": 98, "Science": 96, "English": 99 },
+  { "id": "24BCB010", "name": "Aditya Joshi", "Math": 55, "Science": 58, "English": 52 }
+]
